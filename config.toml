@@ -1,6 +1,6 @@
 baseURL = "https://akansharmn.github.io/"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Akansha Raman"
 theme = "resume"
 publishDir ="."
 
@@ -22,7 +22,7 @@ publishDir ="."
     showExperience = true
     showEducation = true
 
-    showQr = true
+    showQr = false
 
 [[params.handles]]
     name = "LinkedIn"

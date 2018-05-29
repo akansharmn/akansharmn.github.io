@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source Contributions on Eddie Webb</title>
+    <title>Personal Projects on Akansha Raman</title>
     <link>https://akansharmn.github.io/projects/contributions/</link>
-    <description>Recent content in Open Source Contributions on Eddie Webb</description>
+    <description>Recent content in Personal Projects on Akansha Raman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,30 +11,12 @@
     
     
     <item>
-      <title>Atlassian Deployment Triggers</title>
+      <title>Web Diary</title>
       <link>https://akansharmn.github.io/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akansharmn.github.io/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
-    </item>
-    
-    <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://akansharmn.github.io/projects/contributions/shields-docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
-    </item>
-    
-    <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://akansharmn.github.io/projects/contributions/schema-org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+      <description>Project Description This project maintains a web diary of user&amp;rsquo;s online web activities. Currently only online videos watched are in in scope. It allows a user to tag a video, store information or notes along with it. The user when laters visits that video page, he will be able to view all these informations. There are two parts to this project - A browser extension to help a user view all the information he stored while browsing videos and a backedn API to support it.</description>
     </item>
     
   </channel>

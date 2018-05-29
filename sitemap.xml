@@ -5,12 +5,12 @@
   <url>
     <loc>https://akansharmn.github.io/projects/creations/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
-    <priority>0.5</priority>
+    <priority>0.1</priority>
   </url>
   
   <url>
     <loc>https://akansharmn.github.io/projects/contributions/</loc>
-    <priority>0.5</priority>
+    <priority>0.4</priority>
   </url>
   
   <url>
@@ -21,16 +21,6 @@
   <url>
     <loc>https://akansharmn.github.io/publications/alldaydevops/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/projects/contributions/shields-docker/</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/projects/contributions/schema-org/</loc>
     <priority>0.8</priority>
   </url>
   
@@ -46,44 +36,67 @@
   </url>
   
   <url>
+    <loc>https://akansharmn.github.io/tags/.net/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/.net-core-2.0/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akansharmn.github.io/tags/agile/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/atlassian-developer-ecosystem/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/atlassian-ecosystem/</loc>
+    <loc>https://akansharmn.github.io/tags/angularjs/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/projects/creations/marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/bamboo/</loc>
+    <loc>https://akansharmn.github.io/tags/azure-active-directory/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/bash/shell/</loc>
+    <loc>https://akansharmn.github.io/tags/azure-biztalk-services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/azure-functions/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/bitbucket/</loc>
+    <loc>https://akansharmn.github.io/projects/creations/docker-marketplace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/azure-key-vault/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/bosh/</loc>
+    <loc>https://akansharmn.github.io/tags/azure-search-service/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/biztalk/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/c#/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -94,13 +107,13 @@
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/ci/cd-pipelines/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
+    <loc>https://akansharmn.github.io/tags/chrome-extension/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/confluence/</loc>
+    <loc>https://akansharmn.github.io/tags/ci/cd-pipelines/</loc>
+    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,6 +130,12 @@
   </url>
   
   <url>
+    <loc>https://akansharmn.github.io/tags/cosmos-db/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akansharmn.github.io/tags/culture/</loc>
     <lastmod>2016-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -129,53 +148,47 @@
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/docker/</loc>
+    <loc>https://akansharmn.github.io/tags/encryption/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/projects/creations/docker-marketplace/</loc>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/java/</loc>
+    <loc>https://akansharmn.github.io/tags/eventhub/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://akansharmn.github.io/tags/javascript/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/jira/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/jquery/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/maven/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/monit/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/node.js/</loc>
+    <loc>https://akansharmn.github.io/tags/microsoft-azure/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/oauth/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/oauth-2.0/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/odata/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/powershell/</loc>
+    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +204,12 @@
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/python/</loc>
+    <loc>https://akansharmn.github.io/tags/reactjs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/rest-api/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -208,18 +226,12 @@
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/tags/spring/</loc>
+    <loc>https://akansharmn.github.io/tags/swagger/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://akansharmn.github.io/tags/</loc>
-    <lastmod>2016-11-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/tags/xml/xslt/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
   </url>

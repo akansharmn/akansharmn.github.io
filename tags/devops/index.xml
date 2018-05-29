@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Devops on Eddie Webb</title>
+    <title>Devops on Akansha Raman</title>
     <link>https://akansharmn.github.io/tags/devops/</link>
-    <description>Recent content in Devops on Eddie Webb</description>
+    <description>Recent content in Devops on Akansha Raman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
@@ -19,24 +19,6 @@
       <guid>https://akansharmn.github.io/publications/alldaydevops/</guid>
       <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
  Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
-    </item>
-    
-    <item>
-      <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
-      <link>https://akansharmn.github.io/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://akansharmn.github.io/projects/creations/bosh-agents/</guid>
-      <description>• Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems. • Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually. • Developed a service to track the failed transactions and trace it back to its previous hop.</description>
-    </item>
-    
-    <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://akansharmn.github.io/projects/creations/marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     
   </channel>

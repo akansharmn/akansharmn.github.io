@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Eddie Webb</title>
+    <title>Tags on Akansha Raman</title>
     <link>https://akansharmn.github.io/tags/</link>
-    <description>Recent content in Tags on Eddie Webb</description>
+    <description>Recent content in Tags on Akansha Raman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://akansharmn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.Net</title>
+      <link>https://akansharmn.github.io/tags/.net/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.Net Core 2.0</title>
+      <link>https://akansharmn.github.io/tags/.net-core-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/.net-core-2.0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Agile</title>
@@ -21,56 +39,83 @@
     </item>
     
     <item>
-      <title>Atlassian Developer Ecosystem</title>
-      <link>https://akansharmn.github.io/tags/atlassian-developer-ecosystem/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/atlassian-developer-ecosystem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Atlassian Ecosystem</title>
-      <link>https://akansharmn.github.io/tags/atlassian-ecosystem/</link>
+      <title>Angularjs</title>
+      <link>https://akansharmn.github.io/tags/angularjs/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/atlassian-ecosystem/</guid>
+      <guid>https://akansharmn.github.io/tags/angularjs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bamboo</title>
-      <link>https://akansharmn.github.io/tags/bamboo/</link>
+      <title>Azure Active Directory</title>
+      <link>https://akansharmn.github.io/tags/azure-active-directory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/bamboo/</guid>
+      <guid>https://akansharmn.github.io/tags/azure-active-directory/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bash/Shell</title>
-      <link>https://akansharmn.github.io/tags/bash/shell/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/bash/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bitbucket</title>
-      <link>https://akansharmn.github.io/tags/bitbucket/</link>
+      <title>Azure Biztalk Services</title>
+      <link>https://akansharmn.github.io/tags/azure-biztalk-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/bitbucket/</guid>
+      <guid>https://akansharmn.github.io/tags/azure-biztalk-services/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bosh</title>
-      <link>https://akansharmn.github.io/tags/bosh/</link>
+      <title>Azure Functions</title>
+      <link>https://akansharmn.github.io/tags/azure-functions/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/bosh/</guid>
+      <guid>https://akansharmn.github.io/tags/azure-functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Key Vault</title>
+      <link>https://akansharmn.github.io/tags/azure-key-vault/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/azure-key-vault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure Search Service</title>
+      <link>https://akansharmn.github.io/tags/azure-search-service/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/azure-search-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biztalk</title>
+      <link>https://akansharmn.github.io/tags/biztalk/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/biztalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C#</title>
+      <link>https://akansharmn.github.io/tags/c#/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/c#/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chrome Extension</title>
+      <link>https://akansharmn.github.io/tags/chrome-extension/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/chrome-extension/</guid>
       <description></description>
     </item>
     
@@ -80,15 +125,6 @@
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://akansharmn.github.io/tags/ci/cd-pipelines/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Confluence</title>
-      <link>https://akansharmn.github.io/tags/confluence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/confluence/</guid>
       <description></description>
     </item>
     
@@ -111,6 +147,15 @@
     </item>
     
     <item>
+      <title>Cosmos Db</title>
+      <link>https://akansharmn.github.io/tags/cosmos-db/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/cosmos-db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Culture</title>
       <link>https://akansharmn.github.io/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
@@ -129,92 +174,92 @@
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://akansharmn.github.io/tags/docker/</link>
+      <title>Encryption</title>
+      <link>https://akansharmn.github.io/tags/encryption/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/docker/</guid>
+      <guid>https://akansharmn.github.io/tags/encryption/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Java</title>
-      <link>https://akansharmn.github.io/tags/java/</link>
+      <title>Eventhub</title>
+      <link>https://akansharmn.github.io/tags/eventhub/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/java/</guid>
+      <guid>https://akansharmn.github.io/tags/eventhub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
       <link>https://akansharmn.github.io/tags/javascript/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
       <guid>https://akansharmn.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jira</title>
-      <link>https://akansharmn.github.io/tags/jira/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/jira/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jquery</title>
-      <link>https://akansharmn.github.io/tags/jquery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/jquery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Json</title>
-      <link>https://akansharmn.github.io/tags/json/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/json/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Maven</title>
-      <link>https://akansharmn.github.io/tags/maven/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/maven/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Monit</title>
-      <link>https://akansharmn.github.io/tags/monit/</link>
+      <title>Microsoft Azure</title>
+      <link>https://akansharmn.github.io/tags/microsoft-azure/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/monit/</guid>
+      <guid>https://akansharmn.github.io/tags/microsoft-azure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Node.js</title>
-      <link>https://akansharmn.github.io/tags/node.js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/node.js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://akansharmn.github.io/tags/python/</link>
+      <title>Oauth</title>
+      <link>https://akansharmn.github.io/tags/oauth/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/python/</guid>
+      <guid>https://akansharmn.github.io/tags/oauth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oauth 2.0</title>
+      <link>https://akansharmn.github.io/tags/oauth-2.0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/oauth-2.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odata</title>
+      <link>https://akansharmn.github.io/tags/odata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/odata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powershell</title>
+      <link>https://akansharmn.github.io/tags/powershell/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/powershell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reactjs</title>
+      <link>https://akansharmn.github.io/tags/reactjs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/reactjs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest Api</title>
+      <link>https://akansharmn.github.io/tags/rest-api/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/tags/rest-api/</guid>
       <description></description>
     </item>
     
@@ -228,20 +273,11 @@
     </item>
     
     <item>
-      <title>Spring</title>
-      <link>https://akansharmn.github.io/tags/spring/</link>
+      <title>Swagger</title>
+      <link>https://akansharmn.github.io/tags/swagger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akansharmn.github.io/tags/spring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Xml/Xslt</title>
-      <link>https://akansharmn.github.io/tags/xml/xslt/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://akansharmn.github.io/tags/xml/xslt/</guid>
+      <guid>https://akansharmn.github.io/tags/swagger/</guid>
       <description></description>
     </item>
     

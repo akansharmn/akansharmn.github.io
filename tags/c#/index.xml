@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C# on Akansha Raman</title>
+    <link>https://akansharmn.github.io/tags/c#/</link>
+    <description>Recent content in C# on Akansha Raman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://akansharmn.github.io/tags/c#/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Diary</title>
+      <link>https://akansharmn.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Project Description This project maintains a web diary of user&amp;rsquo;s online web activities. Currently only online videos watched are in in scope. It allows a user to tag a video, store information or notes along with it. The user when laters visits that video page, he will be able to view all these informations. There are two parts to this project - A browser extension to help a user view all the information he stored while browsing videos and a backedn API to support it.</description>
+    </item>
+    
+    <item>
+      <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
+      <link>https://akansharmn.github.io/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/creations/bosh-agents/</guid>
+      <description>Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems  Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually.  Developed a service to track the failed transactions and trace it back to its previous hop.</description>
+    </item>
+    
+    <item>
+      <title>Azure Integration Services to provide EAI and B2B transaction capabilities</title>
+      <link>https://akansharmn.github.io/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/creations/docker-marketplace/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+  </channel>
+</rss>

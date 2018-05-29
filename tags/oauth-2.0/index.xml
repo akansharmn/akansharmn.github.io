@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oauth 2.0 on Akansha Raman</title>
+    <link>https://akansharmn.github.io/tags/oauth-2.0/</link>
+    <description>Recent content in Oauth 2.0 on Akansha Raman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://akansharmn.github.io/tags/oauth-2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Diary</title>
+      <link>https://akansharmn.github.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/contributions/deploy-triggers/</guid>
+      <description>Project Description This project maintains a web diary of user&amp;rsquo;s online web activities. Currently only online videos watched are in in scope. It allows a user to tag a video, store information or notes along with it. The user when laters visits that video page, he will be able to view all these informations. There are two parts to this project - A browser extension to help a user view all the information he stored while browsing videos and a backedn API to support it.</description>
+    </item>
+    
+  </channel>
+</rss>
