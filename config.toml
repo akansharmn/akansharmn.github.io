@@ -2,7 +2,7 @@ baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Eddie Webb"
 theme = "resume"
-publishDir ="docs"
+publishDir ="."
 
 [params]
     firstName = "Akansha"
