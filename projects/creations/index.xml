@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creations on Eddie Webb</title>
-    <link>https://example.com/projects/creations/</link>
+    <link>https://akansharmn.github.io/projects/creations/</link>
     <description>Recent content in Creations on Eddie Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://akansharmn.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
-      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <link>https://akansharmn.github.io/projects/creations/bosh-agents/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <guid>https://akansharmn.github.io/projects/creations/bosh-agents/</guid>
       <description>• Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems. • Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually. • Developed a service to track the failed transactions and trace it back to its previous hop.</description>
     </item>
     
     <item>
       <title>Atlassian Marketplace Plugins</title>
-      <link>https://example.com/projects/creations/marketplace/</link>
+      <link>https://akansharmn.github.io/projects/creations/marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/marketplace/</guid>
+      <guid>https://akansharmn.github.io/projects/creations/marketplace/</guid>
       <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
     </item>
     
     <item>
       <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://example.com/projects/creations/docker-marketplace/</link>
+      <link>https://akansharmn.github.io/projects/creations/docker-marketplace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/creations/docker-marketplace/</guid>
+      <guid>https://akansharmn.github.io/projects/creations/docker-marketplace/</guid>
       <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
     </item>
     
