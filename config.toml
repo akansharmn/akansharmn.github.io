@@ -1,0 +1,51 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Eddie Webb"
+theme = "resume"
+publishDir ="docs"
+
+[params]
+    firstName = "Akansha"
+    lastName = "Raman"
+    address = "1, 2nd Street, Jerset City, New Jersey, 07302"
+    phone = "1-201-695-4744"
+    contactNote = "Dev Tools Engineer"
+    profileImage = "img/dp.jpeg"
+    email = "akansha.raman23@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "www.linkedin.com/in/akansha-raman-88b24479"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/akansharmn"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/eddiewebb/"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/82880"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/edwardawebb"
+    icon = "key"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

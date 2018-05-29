@@ -4,13 +4,13 @@ title = "Eddie Webb"
 theme = "resume"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
+    firstName = "Akansha"
+    lastName = "Raman"
+    address = "1, 2nd Street, Jerset City, New Jersey, 07302"
+    phone = "1-201-695-4744"
     contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
+    profileImage = "img/dp.jpeg"
+    email = "akansha.raman23@gmail.com"
     description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
     # what sections
@@ -25,12 +25,12 @@ theme = "resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "www.linkedin.com/in/akansha-raman-88b24479"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/akansharmn"
 
 [[params.handles]]
     name = "Bitbucket"

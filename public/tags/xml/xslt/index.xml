@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xml/Xslt on Eddie Webb</title>
+    <link>https://example.com/tags/xml/xslt/</link>
+    <description>Recent content in Xml/Xslt on Eddie Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/xml/xslt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
+      <link>https://example.com/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://example.com/projects/creations/bosh-agents/</guid>
+      <description>• Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems. • Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually. • Developed a service to track the failed transactions and trace it back to its previous hop.</description>
+    </item>
+    
+  </channel>
+</rss>
