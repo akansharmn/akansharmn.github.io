@@ -1,7 +1,7 @@
 ---
-title: "Open Source Contributions"
+title: "Personal Projects"
 sitemap:
-  priority : 0.5
-weight: 20
+  priority : 0.4
+weight: 10
 ---
-<p>A collection of efforts to which I contributed, but did not create. Contributing back to Open Source projects is a strong passion of mine, and requires a considerate approach to learn norms, standards and approach for each community for a successful merge!</p>
+<p>Some personal projects on which I worked. Learning new technologies  is a passion of mine which is spilled on to my personal projects</p>

@@ -1,7 +1,7 @@
 ---
-title: "Creations"
+title: "Projects"
 sitemap:
-  priority : 0.5
-weight: 10
+  priority : 0.1
+weight: 1
 ---
-<p>A collection of projects authored by Eddie, and likely shared out with the community as an open source project.</p>
+<p>Some of projects worked on by Akansha.</p>

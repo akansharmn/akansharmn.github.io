@@ -9,7 +9,7 @@
   },
   {
       "grouping":"Architecture & Tools",
-      "skills":[ "RESTful APIs", {"name":"Saas/PaaS/IaaS (Azure)","link":"https://azure.microsoft.com/en-us/"}, {"name":"Integration Services (BizTalk)","link":"https://www.microsoft.com/en-us/cloud-platform/biztalk"}]
+      "skills":[ "RESTful APIs", "OAuth" ," Powershell" ,{"name":"Saas/PaaS/IaaS (Azure)","link":"https://azure.microsoft.com/en-us/"}, {"name":"Integration Services (BizTalk)","link":"https://www.microsoft.com/en-us/cloud-platform/biztalk"}]
   }
 ]
  
