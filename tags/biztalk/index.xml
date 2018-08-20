@@ -13,10 +13,10 @@
     
     <item>
       <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
-      <link>https://akansharmn.github.io/projects/creations/bosh-agents/</link>
+      <link>https://akansharmn.github.io/projects/creations/distributed-tracing/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/projects/creations/bosh-agents/</guid>
+      <guid>https://akansharmn.github.io/projects/creations/distributed-tracing/</guid>
       <description>Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems  Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually.  Developed a service to track the failed transactions and trace it back to its previous hop.</description>
     </item>
     

@@ -4,8 +4,12 @@
   
   <url>
     <loc>https://akansharmn.github.io/projects/creations/</loc>
-    <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
     <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/projects/creations/azure-integration-services/</loc>
   </url>
   
   <url>
@@ -25,7 +29,12 @@
   </url>
   
   <url>
-    <loc>https://akansharmn.github.io/projects/creations/bosh-agents/</loc>
+    <loc>https://akansharmn.github.io/projects/creations/wsn/</loc>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/projects/creations/distributed-tracing/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
   </url>
   
@@ -72,10 +81,6 @@
     <loc>https://akansharmn.github.io/tags/azure-functions/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://akansharmn.github.io/projects/creations/docker-marketplace/</loc>
   </url>
   
   <url>
@@ -159,8 +164,26 @@
   </url>
   
   <url>
+    <loc>https://akansharmn.github.io/tags/genetic-algorithm/</loc>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/greedy-algorithm/</loc>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://akansharmn.github.io/tags/javascript/</loc>
     <lastmod>2018-02-11T12:41:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/matlab/</loc>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -183,6 +206,12 @@
   
   <url>
     <loc>https://akansharmn.github.io/tags/odata/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://akansharmn.github.io/tags/particle-swarm-optimization-algorithm/</loc>
+    <lastmod>2018-08-19T17:14:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   

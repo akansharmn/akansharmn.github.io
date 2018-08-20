@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Azure Integration Services to provide EAI and B2B transaction capabilities</title>
+      <link>https://akansharmn.github.io/projects/creations/azure-integration-services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/creations/azure-integration-services/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+    <item>
       <title>Web Diary</title>
       <link>https://akansharmn.github.io/projects/contributions/deploy-triggers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -31,21 +40,21 @@
     </item>
     
     <item>
-      <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
-      <link>https://akansharmn.github.io/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>Final year thesis: Solving Target Coverage Problem in Wireess Sensor Networks Using Iterative Heuristic Algorithms</title>
+      <link>https://akansharmn.github.io/projects/creations/wsn/</link>
+      <pubDate>Sun, 19 Aug 2018 17:14:25 -0400</pubDate>
       
-      <guid>https://akansharmn.github.io/projects/creations/bosh-agents/</guid>
-      <description>Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems  Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually.  Developed a service to track the failed transactions and trace it back to its previous hop.</description>
+      <guid>https://akansharmn.github.io/projects/creations/wsn/</guid>
+      <description>This work aims to maximize the lifetime of wireless sensor networks by grouping the sensor nodes into sets and activating the sets successively.By lifetime is meant the total time for which the sensor nodes can monitor the whole target area or all the target objects. Two different cases have been dealt with- one when the transmission and reception range of sensors can be adjusted and the other in which the range of transmission and reception is fixed.</description>
     </item>
     
     <item>
-      <title>Azure Integration Services to provide EAI and B2B transaction capabilities</title>
-      <link>https://akansharmn.github.io/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Distributed tracing of transactions for an existing financial transaction processing pipeline</title>
+      <link>https://akansharmn.github.io/projects/creations/distributed-tracing/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>https://akansharmn.github.io/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://akansharmn.github.io/projects/creations/distributed-tracing/</guid>
+      <description>Worked in a team to design and develop a distributed tracing mechanism for tracing Microsoft’s financial transactions flowing through multiple sub-systems  Enhanced the design to support tracing of batched transactions which can further split into multiple discrete transactions and multiple batched transactions and so on such that each final discrete transaction can be traced individually.  Developed a service to track the failed transactions and trace it back to its previous hop.</description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Algorithm on Akansha Raman</title>
+    <link>https://akansharmn.github.io/tags/genetic-algorithm/</link>
+    <description>Recent content in Genetic Algorithm on Akansha Raman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Aug 2018 17:14:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://akansharmn.github.io/tags/genetic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Final year thesis: Solving Target Coverage Problem in Wireess Sensor Networks Using Iterative Heuristic Algorithms</title>
+      <link>https://akansharmn.github.io/projects/creations/wsn/</link>
+      <pubDate>Sun, 19 Aug 2018 17:14:25 -0400</pubDate>
+      
+      <guid>https://akansharmn.github.io/projects/creations/wsn/</guid>
+      <description>This work aims to maximize the lifetime of wireless sensor networks by grouping the sensor nodes into sets and activating the sets successively.By lifetime is meant the total time for which the sensor nodes can monitor the whole target area or all the target objects. Two different cases have been dealt with- one when the transmission and reception range of sensors can be adjusted and the other in which the range of transmission and reception is fixed.</description>
+    </item>
+    
+  </channel>
+</rss>
